@@ -13,7 +13,7 @@ Library: C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consum
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Temp\Burst
 --generate-static-linkage-methods
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.11f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Library\Burst
 --output=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -32,7 +32,7 @@ Library: C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consum
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Temp\Burst
 --generate-static-linkage-methods
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.11f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Library\Burst
 --output=C:\Users\laris\Documents\2A_A26\Jeu3D\MelyseMalo_TravailPratique_Consummation\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
