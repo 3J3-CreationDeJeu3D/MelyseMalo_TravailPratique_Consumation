@@ -19,6 +19,7 @@ public class FPS_DeplacementPersonnage : MonoBehaviour
     CharacterController characterController;
     bool estEnCourse = false;
 
+
     void OnEnable()
     {
         deplacementInput.Enable();
